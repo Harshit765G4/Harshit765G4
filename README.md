@@ -46,5 +46,5 @@ I'm a Computer Science Engineering graduate focused on building practical AI/ML 
 - 🧩 [LeetCode](https://leetcode.com/u/harshit765/)
 
 ---
-
+![](./profile-3d-contrib/profile-night-green.svg)
 > Building systems that turn data and intelligence into useful software.
