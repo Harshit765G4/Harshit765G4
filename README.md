@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hi, I'm Harshit Garg 👋
 
-<!--
-**Harshit765G4/Harshit765G4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### AI Engineer | Machine Learning | Deep Learning | Python
 
-Here are some ideas to get you started:
+I'm a Computer Science Engineering graduate focused on building practical AI/ML systems, intelligent automation, and data-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Focused on **AI Engineering, Machine Learning & Deep Learning**
+- 🐍 Building with **Python, TensorFlow, Scikit-learn & PyTorch**
+- 🧠 Exploring **Generative AI, AI Agents & intelligent automation**
+- 🔐 Background in **Cybersecurity, Networking & Intrusion Detection**
+- 💻 Also experienced with **C++, JavaScript, React, Node.js & MongoDB**
+- 🚀 Currently building AI-focused projects and preparing for **AI/ML Engineer roles**
+
+## 🛠️ Tech Stack
+
+**AI / ML:** Python · NumPy · Pandas · Scikit-learn · TensorFlow · Keras · PyTorch · XGBoost · LightGBM
+
+**Development:** C++ · JavaScript · React.js · Node.js · HTML · CSS · REST APIs · Streamlit
+
+**Data & Visualization:** Plotly · Matplotlib · MySQL · MongoDB
+
+**Tools:** Git · GitHub · Docker · Linux · VS Code
+
+## 🚀 Featured Projects
+
+- **BlackBox — Adversarial Intrusion Detection System**  
+  Machine-learning based intrusion detection using ensemble models and adversarial techniques.
+
+- **CrystalliteML**  
+  ML pipeline using Random Forest/XGBoost with SHAP-based explainability and model interpretation.
+
+- **AutoTubeAI**  
+  Automated content-production pipeline covering research, ideation, scripting, storyboarding, video generation, TTS and publishing.
+
+- **AI / ML Practice**  
+  Hands-on implementations covering preprocessing, feature engineering, regression, classification, EDA and model evaluation.
+
+## 📊 GitHub Activity
+
+![3D Contribution Graph](./profile-3d-contrib/profile-night-rainbow.svg)
+
+## 🔗 Connect With Me
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/harshit-garg-76194b252/)
+- 💻 [GitHub](https://github.com/Harshit765G4)
+- 🧩 [LeetCode](https://leetcode.com/u/harshit765/)
+
+---
+
+> Building systems that turn data and intelligence into useful software.
